@@ -11,4 +11,6 @@ ahora voy a probar escribiendo otra vez en el ordenador a ver si funciona
 cambios en la rama master 
 
 
-cambios en la rama "Rama1" a ver que ocurre
+cambios en la rama "Rama1" a ver que ocurre 
+
+cambios en la rama 2 
