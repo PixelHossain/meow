@@ -4,3 +4,6 @@ voy  a ver si ha cambiado las cosas
 no me detecta los cambios :
 
 ahora voy a mirar si me hace cambios en el visual escrito desde el github de la web
+
+
+ahora voy a probar escribiendo otra vez en el ordenador a ver si funciona 
