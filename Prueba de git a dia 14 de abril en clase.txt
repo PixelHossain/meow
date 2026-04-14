@@ -2,3 +2,5 @@ Prueba de git a dia 14 de abril en clase
 
 voy  a ver si ha cambiado las cosas
 no me detecta los cambios :
+
+ahora voy a mirar si me hace cambios en el visual escrito desde el github de la web
