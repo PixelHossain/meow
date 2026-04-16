@@ -7,3 +7,17 @@ ahora estoy haciendo cambios desde la rama 1 a ver como va
 
 
 ahora estoy haciendo otro cambio en la rama 1 para ver si se hace el cambio al master :
+
+
+
+
+
+
+
+
+
+
+
+
+
+en linea 18 estoy haciendo cambios desde la rama2
