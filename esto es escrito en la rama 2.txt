@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 esto es escrito en la rama 2 
+=======
+esto es escrito en la rama 2 j
+>>>>>>> Rama1
