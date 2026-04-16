@@ -2,4 +2,8 @@ nuevo archivo de texto para prueba
 nuevo archivo de texto para prueba it 
 ahora estoy haciendo un cambio desde la rama 2 
 
-prueba ahroa desde master 
+
+ahora estoy haciendo cambios desde la rama 1 a ver como va
+
+
+ahora estoy haciendo otro cambio en la rama 1 para ver si se hace el cambio al master :
